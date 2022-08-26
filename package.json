@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/lab": "^5.0.0-alpha.96",
+    "@mui/material": "^5.10.2",
+    "react-tabs": "^5.1.0"
+  }
+}
